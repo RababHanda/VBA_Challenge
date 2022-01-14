@@ -27,14 +27,14 @@ As can be clearly seen in the tables above, overall stocks performed better in t
 This project required refactoring a pre-written code
 
 ### Advantages
-- Refactoring results in the code being shorter, faster and more efficient
+- Refactoring results in the code being shorter, faster and more efficient. Please see the table below for the time difference comparisons
 
-| | **Original Script** | **Refactored Script** |
+    - | | **Original Script** | **Refactored Script** |
 | --- | --- | --- |
 | 2017 | ![All Stocks (2017)](/Resources/OgCodeTimer_2017.png) | ![All Stocks (2017)](/Resources/RefactorCodeTimer_2017.png) |
 | 2018 | ![All Stocks (2017)](/Resources/OgTimer_2018.png) | ![All Stocks (2017)](/Resources/RefactorCodeTimer_2018.png) |
 
-*<u>Please note</u> these were the time achieved when the code was first run after opening the file. Subsequent runs give different times. To get an overall unbiased contrast the file was re-opened every time to run the different codes for the different years*
+>*Please note these were the time achieved when the code was first run after opening the file. Subsequent runs give different times. To get an overall unbiased contrast the file was re-opened every time to run the different codes for the different years*
 
 ### Disadvantages
--
+- The biggest disadvantage to refactoring the code is investing the time in udnerstanding what is already written. Different people think differently and therefore approach problems differently. Due to this, despite providing comments, understanding someone else's chain of thought requires effort
