@@ -29,6 +29,11 @@ This project required refactoring a pre-written code
 ### Advantages
 - Refactoring results in the code being shorter, faster and more efficient
 
-| | **Advantages** | **Disadvantages** |
+| | **Original Script** | **Refactored Script** |
 | --- | --- | --- |
-| | The code is more efficient, shorter and faster | List all new or modified files |
+| 2017 | ![All Stocks (2017)](/Resources/OgCodeTimer_2017.png) [^1] | ![All Stocks (2017)](/Resources/RefactorCodeTimer_2017.png) [^1] |
+| 2018 | ![All Stocks (2017)](/Resources/OgCodeTimer_2018.png) [^1] | ![All Stocks (2017)](/Resources/RefactorCodeTimer_2018.png) [^1] |
+[^1]: Please note these were the time achieved when the code was first run after opening the file. Subsequent runs give different times. To get an overall unbiased contrast the file was re-opened every time to run the different codes for the different years
+
+### Disadvantages
+-
