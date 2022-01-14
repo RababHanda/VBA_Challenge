@@ -1,17 +1,17 @@
 # VBA of Wall Street
 
 ## Overview of Project
-The project looks at over 4000 campaigns and how each has fared. It utilizes the raw data, ranging from launch dates, funding goals, to countries, years etc, in order to analyse trends between different aspects of the campaigns. 
+The project analyzes the shares of 12 different stocks being traded in the years 2017 and 2018. 
 
 ### Purpose
-The purpose of this project is to exercise the different Excel tasks and strategies learned during the class for analyzing the outcomes of each campaign based on its launch date and the funding goals set for it. 
+The purpose of this project is to code in VBA. Majority of the tasks revolve around using loops and conditionals to achieve the results requested.  
 
-The project visualizes these relations to give an intrinsic understanding to the viewer. The visualizations designed to communicate a quick summary of trends in the outcomes of campaigns with respect to different aspects of its launch. 
+The project specifically looks at the total volume of shares traded for each stock along with the annual returns. The project then compares the trading between two different years.
 
 ## Results and Comparisons
-This sections breaks provides a detailed summary of the analysis performed in Excel comparing the outcomes of different campaigns to their launch dates or funding goals
-
-Most commands needed to condense the data into a straightforward table were covered in class along with tasks to create different charts.
+| Performance in 2017 | Performance in 2018 |
+| --- | --- |
+| ![All Stocks (2017)](/Resources/AllStocks_2017.png) | ![All Stocks (2017)](/Resources/AllStocks_2018.png) |
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -40,8 +40,6 @@ Calculating the percentage of eacg outcome gives an overall picture of how the *
 
 ![Outcomes Based on Fundraising Goals](/Resources/Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered
-As I have been using Excel extensively at my work for over 3 years, I faced no apparent technical issues since I am decently familiar with different functions in Excel. However, determining which column to assign to which of the categories of the pivot table took some practice. I needed to first develop an inherent understanding of what my pivot will summarize and somewhat mentally visualize how different aspects in rows/columns would change the summary of the table. 
 
 ## Summary
 
