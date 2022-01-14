@@ -31,9 +31,10 @@ This project required refactoring a pre-written code
 
 | | **Original Script** | **Refactored Script** |
 | --- | --- | --- |
-| 2017 | ![All Stocks (2017)](/Resources/OgCodeTimer_2017.png) [^1] | ![All Stocks (2017)](/Resources/RefactorCodeTimer_2017.png) [^1] |
-| 2018 | ![All Stocks (2017)](/Resources/OgTimer_2018.png) [^1] | ![All Stocks (2017)](/Resources/RefactorCodeTimer_2018.png) [^1] |
-[^1]: Please note these were the time achieved when the code was first run after opening the file. Subsequent runs give different times. To get an overall unbiased contrast the file was re-opened every time to run the different codes for the different years
+| 2017 | ![All Stocks (2017)](/Resources/OgCodeTimer_2017.png) | ![All Stocks (2017)](/Resources/RefactorCodeTimer_2017.png) |
+| 2018 | ![All Stocks (2017)](/Resources/OgTimer_2018.png) | ![All Stocks (2017)](/Resources/RefactorCodeTimer_2018.png) |
+
+*<u>Please note</u> these were the time achieved when the code was first run after opening the file. Subsequent runs give different times. To get an overall unbiased contrast the file was re-opened every time to run the different codes for the different years*
 
 ### Disadvantages
 -
