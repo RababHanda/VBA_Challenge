@@ -8,6 +8,7 @@ The purpose of this project is to code in VBA. Majority of the tasks revolve aro
 
 The project specifically looks at the total volume of shares traded for each stock along with the annual returns. The project then compares the trading between two different years.
 
+
 ## Results and Comparisons
 | **Performance in 2017** | **Performance in 2018** |
 | --- | --- |
@@ -21,18 +22,13 @@ As can be clearly seen in the tables above, overall stocks performed better in t
 
 3. **ENPH** showed the most stable performce, albeit a decrease. It went from 129.5% in 2017 to 81.9% in 2018
 
+
 ## Summary
+This project required refactoring a pre-written code
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-    - Highest number of successful Theater campaigns occur in the month of May across all years
-    - The number of successful campaigns start reducing as the year ends, while the number of failed starts to increase during that time
+### Advantages
+- Refactoring results in the code being shorter, faster and more efficient
 
-- What can you conclude about the Outcomes based on Goals?
-    - The percentage of successful outcomes reduces as the fundraising goal increases, while the reverse is true for failed campaigns (percentage increases as the goals increases)
-
-- What are some limitations of this dataset?
-    - The dataset comes without description of certain columns, like Staff Pick and Spotlight, therefore those cannot be used in any form of analysis
-
-- What are some other possible tables and/or graphs that we could create?
-    - Tables and graphs could be created to study the outcome trends in different countries for different subcategories (perhaps theatres fare better in some countries over others, whereas movies fare better in some and not in others)
-    - Another analysis can be performed on the outcomes based on how many backers each campaign had
+| | **Advantages** | **Disadvantages** |
+| --- | --- | --- |
+| | The code is more efficient, shorter and faster | List all new or modified files |
